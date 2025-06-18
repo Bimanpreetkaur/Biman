@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">I code with Python</h2>
+<h2 align="left">I code with Javascript</h2>
 
 ###
 
